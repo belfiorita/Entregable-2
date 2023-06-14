@@ -1,7 +1,7 @@
 //Creation of global const, vars and class
 
 const digitalArtworks = [];
-const file = "../data/data.json";
+const file = "./data/data.json";
 const myForm = document.getElementById("myForm");
 const shop = document.getElementById("shop");
 const modal = document.getElementById("modalPopUp");
