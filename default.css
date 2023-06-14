@@ -373,14 +373,12 @@ ul.contact li a:before {
   padding: 0 0 0 1px;
   height: 15px;
   float: left;
-  background: url(../images/menu_split.gif) no-repeat left center;
 }
 
 #menu li {
   margin: 0;
   padding: 0 20px;
   float: left;
-  background: url(../images/menu_split.gif) no-repeat right center;
 }
 
 #menu li a,
